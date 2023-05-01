@@ -31,3 +31,5 @@ const printForecast = function (arr) {
 
 printForecast(temps1);
 printForecast(temps2);
+
+console.log('testing branching')
